@@ -1,6 +1,6 @@
-# n8n instalacao vps via Easy Panel
+# instalacao RW MasterClass
 
-# Instalaçao dos bancos de dados
+# Bancos de dados
 
 - Postgres
 - Redis
