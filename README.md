@@ -27,7 +27,7 @@
             "port": 5678
           }
         ],
-        "env": "N8N_ENCRYPTION_KEY=qwSYwLlijZOh+FaBHrK0tfGzxG6W/J4O",
+        "env": "N8N_ENCRYPTION_KEY=rxTZxMmijZPh+FbCHrL1ufHzyG7X/K5P",
          "deploy": {
                   "replicas": 1,
                   "command": "n8n start",
@@ -60,7 +60,7 @@
             "port": 5678
           }
         ],
-        "env": "N8N_ENCRYPTION_KEY=qwSYwLlijZOh+FaBHrK0tfGzxG6W/J4O",
+        "env": "N8N_ENCRYPTION_KEY=rxTZxMmijZPh+FbCHrL1ufHzyG7X/K5P",
          "deploy": {
           "replicas": 1,
           "command": "n8n webhook",
@@ -93,7 +93,7 @@
             "port": 5678
           }
         ],
-        "env": "N8N_ENCRYPTION_KEY=qwSYwLlijZOh+FaBHrK0tfGzxG6W/J4O",
+        "env": "N8N_ENCRYPTION_KEY=rxTZxMmijZPh+FbCHrL1ufHzyG7X/K5P",
          "deploy": {
           "replicas": 1,
           "command": "n8n worker --concurrency=10",
@@ -112,7 +112,7 @@
 Alterar as credencais do Postgres e Redis.
 ```
 ### Você pode criar a sua própria Encryption Key
-N8N_ENCRYPTION_KEY = qwSYwLlijZOh+FaBHrK0tfGzxG6W/J4O
+N8N_ENCRYPTION_KEY = rxTZxMmijZPh+FbCHrL1ufHzyG7X/K5P
 
 ### Banco de Dados - Coloque suas credenciais ###
 DB_TYPE=postgresdb
