@@ -3,7 +3,7 @@
 # Bancos de dados
 
 - postgres
-  no postgre escreva -  database
+  no postgres escreva -  database
 - redis
 
 # Instalaçao do n8n
