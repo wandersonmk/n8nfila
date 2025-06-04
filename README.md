@@ -2,8 +2,9 @@
 
 # Bancos de dados
 
-- Postgres
-- Redis
+- postgres
+  no postgre escreva -  database
+- redis
 
 # Instalaçao do n8n
 
